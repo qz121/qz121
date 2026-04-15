@@ -1,5 +1,5 @@
-🧬论文题目：Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning
-#发表期刊：预印版  
+🧬论文题目：Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning  
+发表期刊：预印版  
 发表时间：2025  
 数据集：自建
 
