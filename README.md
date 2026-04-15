@@ -14,8 +14,7 @@ I am a researcher focusing on **AI Safety and Machine Unlearning**. Specifically
 - **Environment**: Linux Server (Multi-GPU Pascal/Ampere setups).
 
 ## 🚀 Projects
-- [SafeEraser](https://github.com/qz121/SafeEraser): A framework for robust machine unlearning. (替换成你的真实链接)
 - [Unlearning-Notes](#): Personal knowledge base for MLLM safety.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qz121&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qz121&show_icons=true&theme=transparent)
