@@ -14,7 +14,7 @@ I am a researcher focusing on **AI Safety and Machine Unlearning**. Specifically
 - **Environment**: Linux Server (Multi-GPU Pascal/Ampere setups).
 
 ## 🚀 Projects
-- [Unlearning-Notes](#): Personal knowledge base for MLLM safety.
+- [Unlearning Notes](./notes/mllm-unlearning.md)Personal knowledge base for MLLM safety.
 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qz121&show_icons=true&theme=transparent)
