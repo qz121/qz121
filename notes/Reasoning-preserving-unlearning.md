@@ -1,4 +1,4 @@
-# Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models
+# 推理遗忘学习
 论文链接：https://arxiv.org/pdf/2512.17911  
 ![最优传输过程示意](./process.gif)
 ---
