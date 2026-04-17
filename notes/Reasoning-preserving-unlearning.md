@@ -1,6 +1,6 @@
 # Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models
-论文链接：https://arxiv.org/pdf/2512.17911
-![最优传输过程示意](./procress.gif)
+论文链接：https://arxiv.org/pdf/2512.17911  
+![最优传输过程示意](./process.gif)
 ---
 
 ## 1. 背景
