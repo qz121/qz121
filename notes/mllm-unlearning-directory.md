@@ -4,7 +4,8 @@
 
 ### 核心论文分析
 1.**[Baseline](./baseline.md)**：论文中基本的baseline。  
-2. **[Benign Memory Forgetting](./Benign-Memory-Forgetting.md)**:防御，重点关注unlearning与model utility的平衡。
+2. **[Benign Memory Forgetting](./Benign-Memory-Forgetting.md)**:防御，重点关注unlearning与model utility的平衡。  
+3.**[Reasoning Preserving](./Reasoning-preserving-unlearning.md)**:防御，关注推理链的信息泄露。
 
 ---
 [⬅ 返回个人主页](../README.md)
