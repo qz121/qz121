@@ -1,5 +1,6 @@
 # 论文笔记：Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning
-## 论文链接：https://arxiv.org/pdf/2601.22020
+### 论文链接：https://arxiv.org/pdf/2601.22020  
+### 数据集：MLLMU、CLEAR  
 ## 1. 背景
 
 这篇论文研究的是 **多模态大语言模型（MLLM）的遗忘 / unlearning** 问题：当模型记住了某些图像中的私人信息时，如何让它在被提问时**不再泄露这些信息**，同时又尽量保留其他知识和回答连贯性。论文指出，已有方法往往把回答中的所有 token 一视同仁，容易把本来不该忘的“正常 token”也一起破坏掉，导致输出变得不连贯甚至乱码。
