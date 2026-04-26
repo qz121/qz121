@@ -10,6 +10,7 @@
 | arXiv | https://arxiv.org/abs/2502.11051 |
 | GitHub | https://github.com/Z1zs/MMUnlearner |
 | 核心目标 | 忘掉目标实体的视觉模式，同时保留对应的文本知识 |
+| 数据集 | MLLMU-Bench 、 CLEAR |
 
 ---
 
