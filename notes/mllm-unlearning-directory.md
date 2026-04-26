@@ -8,7 +8,8 @@
 3.**[Reasoning Preserving](./Reasoning-preserving-unlearning.md)**:防御，关注推理链的信息泄露。  
 4.**[Key token unlearning](./Key-token-unlearning.md)**:防御，把token分类，key token、nomal token。  
 5.**[Modality aware neuron unlearning](./Modality-Aware-Neuron-Unlearning.md)**:防御，把相关神经元剪枝。  
-6.**[MML-Releaning](./MML-Relearning.md)**:攻击，relearning。
+6.**[MML-Releaning](./MML-Relearning.md)**:攻击，relearning。  
+7.**[Visual features unlearning](./unlearning-visual-features.md)**:防御，文本特征保留，视觉特征删除。
 
 ---
 [⬅ 返回个人主页](../README.md)
