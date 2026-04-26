@@ -41,7 +41,7 @@ github链接：https://github.com/franciscoliu/MANU
 
 其核心思想是：
 
-> 不再单纯依赖参数更新去“逼模型忘记”，而是从神经元层面出发，找出那些与待遗忘知识最相关、且在不同模态中起关键作用的神经元，然后进行有选择的剪枝（pruning）。
+> 不再单纯依赖参数更新去“逼模型忘记”，而是从神经元层面出发，找出那些与待遗忘知识最相关、且在不同模态中起关键作用的神经元，然后进行有选择的剪枝（pruning）。主要剪MLP层(Multi-Layer Perceptron layer)，中文常叫多层感知机层。在 Transformer / LLM / MLLM 里，它通常也被叫作 FFN 层，也就是 Feed-Forward Network，前馈网络层。负责信息加工（拿到这些上下文信息后，我应该如何理解、变换、激活相关知识？）。
 
 换句话说，MANU 的重点是：
 
