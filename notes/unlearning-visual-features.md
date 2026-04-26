@@ -349,7 +349,7 @@ Mode 6：忘敏感属性，但保留非敏感描述能力
 
 ### 11.3 改进参数 Mask 机制
 
-当前 MMUnlearner 使用基于显著性的 hard mask。
+当前 MMUnlearner 使用基于显著性的 hard mask。mask是否可以改为连续权重？
 
 未来可以改进为：
 
