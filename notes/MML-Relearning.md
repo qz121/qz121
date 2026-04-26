@@ -13,7 +13,8 @@ https://github.com/OPTML-Group/Unlearn-Smooth
 **ICML 2025**。
 
 **完整发表信息**：  
-Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada, PMLR 267, 2025.
+Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada, PMLR 267, 2025.  
+
 **论文链接**:
 https://arxiv.org/pdf/2502.05374
 
