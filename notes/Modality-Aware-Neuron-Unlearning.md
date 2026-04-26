@@ -1,7 +1,8 @@
 # 模型感知的神经元遗忘学习  
 论文发表：ACL 2025  
 数据集：MLLMU-Bench、LLaVA-Bench、MMMA  
-github链接：https://github.com/franciscoliu/MANU
+github链接：https://github.com/franciscoliu/MANU  
+
 
 ## 一、论文背景
 
@@ -490,5 +491,10 @@ $$
 
 ### 4. 仍然存在额外计算成本
 虽然它不需要从头重训，也不依赖大量梯度更新，但在筛选神经元时，仍需要对不同数据集、不同模态下的神经元激活做系统统计，因此离线成本并不低。
+
+
+---
+## 十二、下一步工作
+### 1、结构化神经元剪枝？
 
 ---
