@@ -7,7 +7,8 @@
 2.**[Benign Memory Forgetting](./Benign-Memory-Forgetting.md)**:防御，重点关注unlearning与model utility的平衡。  
 3.**[Reasoning Preserving](./Reasoning-preserving-unlearning.md)**:防御，关注推理链的信息泄露。  
 4.**[Key token unlearning](./Key-token-unlearning.md)**:防御，把token分类，key token、nomal token。  
-5.**[Modality aware neuron unlearning](./Modality-Aware-Neuron-Unlearning.md)**:防御，把相关神经元剪枝。
+5.**[Modality aware neuron unlearning](./Modality-Aware-Neuron-Unlearning.md)**:防御，把相关神经元剪枝。  
+6.**[MML-Releaning](./MML-Releaning.md)**:攻击，relearning。
 
 ---
 [⬅ 返回个人主页](../README.md)
